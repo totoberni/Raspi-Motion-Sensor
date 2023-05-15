@@ -7,10 +7,12 @@ A student's project to build a motion sensor. The project is supposed to be a ch
 Medium
 
 ## Prerequisites:
-1 PIR (Passive InfraRed) sensor
-1 Raspberry Pi Pico
-1 Breadboard
-4 cables
+- Raspberry Pi Pico board
+- One PIR Sensor
+- One 5mm LED
+- One 220 ohm resistor
+- Breadboard
+- Connecting Wires
 
 ## Description: 
 The task is to build a motion sensor by implementing a MicroPython script on the Raspberry Pi Pico. The script will use the PIR to detect movement and will light a let!
